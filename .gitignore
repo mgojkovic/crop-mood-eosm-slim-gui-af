@@ -51,3 +51,26 @@ Thumbs.db
 # AF field data: curated real logs and samples are intentionally tracked
 !contrib/af_test/corpus/**/*.LOG
 !contrib/af_novel/samples/*.LOG
+
+# Magic Lantern build outputs
+*.o
+*.d
+*.dep
+*.mo
+*.sym
+*.a
+*.map
+module_strings.h
+platform/*/autoexec
+platform/*/autoexec.bin
+platform/*/magiclantern
+platform/*/magiclantern.bin
+platform/*/magiclantern.lds
+platform/*/version.bin
+platform/*/version.c
+platform/*/*.zip
+modules/*/*.rsc
+
+# Local tooling
+.dsh/
+src/menuindexentries.h
