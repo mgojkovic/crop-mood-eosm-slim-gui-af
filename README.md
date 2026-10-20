@@ -46,7 +46,7 @@ If you test other lenses, please send results (see [Contributing](#contributing)
 
 ## Install
 
-There are no release downloads yet, so for now you'll need to build from source (below).
+Download the zip from the latest [release](https://github.com/mgojkovic/crop-mood-eosm-slim-gui-af/releases), or build it yourself (below).
 
 With Magic Lantern already on the card, copy **all three of these, from the same build**:
 
